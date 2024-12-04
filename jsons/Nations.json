@@ -1,38 +1,39 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Philippines",
+		"leaderName": "José Rizal",
+		"adjective": ["Filipino"],
+		"startBias": ["Coastal"],
+		"preferredVictoryType": "Cultural",
+		"personality": "José Rizal",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Your people gaze upon you with their hearts, José Rizal, national hero of all the Philippines. For thousands of years, the glimmering islands of this land have played host to one of the largest populations in the world, and has become a veritable melting pot for a great diversity of people; fusing together the cultures of Austronesians, Malay, Chinese, Spanish, British and Americans alike. Your ideals have forever shaped the course of Filipino history, and drives through the veins of your people their will for independence. After your execution at the hands of the Spanish colonists in 1896, your adherents rose up, and declared a new nation in the pacific, founded upon the principles of your life's work, and thus for this you are eternally honoured as the first Filipino.",
+		"startIntroPart2": "O magnificent Rizal, your people call you to change their world once more. Can you defend this beautiful and tranquil homeland against all manner of foe? Can you forge a place for the Philippine Republic through peace and harmony with the world around you? Can you build a civilization that can stand the test of time?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Why does need to come to this? You leave us no choice!",
+		"attacked": "We we're a friendly nation up until this moment!",
+		"defeated": "You have destroyed a beautiful creation. In its place is the blood of the thousands that you have lustfully slain.",
+		"introduction": "Welcome to the Philippines, traveller! I am José Rizal, and I seek only peace, so that we might learn, in harmony, of the cultures that we both nurture.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Kamusta?",
+		"neutralLetsHearIt": ["I'll here you out.","You may begin.","Let's begin the discussion"],
+		"neutralNo": ["We refuse.","Cannot do that","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","Salamat"],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "What?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateNo": ["No just because its you!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["Alright.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Let's keep this peace longer than before",
+		"tradeRequest": "We would like to offer this deal with you"
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [250,200,0],
+		"innerColor": [255,255,255],
+        "favoredReligion": "Christianity"
+		"uniqueName": "The Patriot"
+        "uniques":["[+10]% [Science] for every [Great Improvement] when at peace with neighboring civilizations","[+1] [Great Writer] point per turn for every city with a [Great Improvement]"],
+		"cities": ["Manila","Cebu","Iloilo","Vigan","Davao","Batangas","Tagbilaran","Zamboanga","Bacolod","Tuguegarao","Tarlac","Kalibo","Lucena","Antique","Naga","Dagupan","Baguio","Makati","Quezon City","Pasig","Cagayan de Oro","Dumaguete","Taguig","Las Piñas","Mandaluyong","Marikina","Parañaque","Pasay","San Fernando","Santiago","Tacloban","Cotabato","General Santos","Bohol","Palawan","Taytay","Ormoc","Laoag","Olongapo","Iligan","Bacolod","Cabanatuan","Angeles","Bataan","Sorsogon","Baler","Batac","Butuan","Legazpi","Surigao","Zambales","Roxas","Talisay","Malolos","Baguio","Cebu City","Tarlac City","Zamboanga City","Iloilo City","Naga City","Tacloban City","Davao City","Marawi","General Santos City","Santiago City","Tagum"],
+        "spyNames": ["Santos","Cruz","Gomez","Diaz","Reyes","Garcia","Martinez","Lopez","Rodriguez","Perez","Castro","Morales","Alvarez","Fernandez","Rivera","Navarro","Ramos","Bautista","Mendoza","Jimenez","Salazar","Aquino","Villar","Torres","Suarez","Serrano","Santiago","Ferrer","Garcia","DeLaCruz","DelosSantos","Cabrera","Benitez"]
 	}
 ]
