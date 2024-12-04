@@ -7,6 +7,6 @@
 		"culture": 50,
 		"maintenance": 2,
 		"requiredTech": "Theology",
-        "uniques": ["[+25]% [Culture] [in this city]", "Can only be built <in [Capital] cities>"]
+        "uniques": ["[+25]% [Culture] [in this city]", "Can only be built <in [Capital] cities>","[+15]% Great Person generation [in this city]"]
 	}
 ]
