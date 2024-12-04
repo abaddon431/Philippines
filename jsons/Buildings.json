@@ -6,7 +6,6 @@
 		"cost": 150,
 		"culture": 50,
 		"maintenance": 2,
-        "greatPersonPoints": {"Great Writer": 10},
 		"requiredTech": "Theology",
         "uniques": ["[+25]% [Culture] [in this city]", "Can only be built <in [Capital] cities>"]
 	}
