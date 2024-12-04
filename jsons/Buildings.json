@@ -1,25 +1,12 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Rizal Park",
+		"replaces": "Garden",
+		"uniqueTo": "Philippines",
+		"cost": 150,
+		"culture": 50,
+		"maintenance": 2,
+		"requiredTech": "Theology",
+        "uniques": ["[+20]% [Culture] generatation [in this city]", "Can only be built <in [Capital] cities>"]
 	}
 ]
