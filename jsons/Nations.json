@@ -28,8 +28,8 @@
 		"afterPeace": "Let's keep this peace longer than before",
 		"tradeRequest": "We would like to offer this deal with you"
 
-		"outerColor": [250,200,0],
-		"innerColor": [255,255,255],
+		"outerColor": [255,255,255],
+		"innerColor": [250,200,0],
         "favoredReligion": "Christianity"
 		"uniqueName": "Pearl of the Orient"
         "uniques":["[+3 Production, +3 Gold] from each Trade Route", "[+20]% [Culture] from Trade Routes"],
