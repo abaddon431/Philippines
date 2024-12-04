@@ -8,7 +8,7 @@
 		"strength": 30,
 		"cost": 180,
 		"requiredTech": "Gunpowder",
-		"upgradesTo": "Rifleman",
+		"upgradesTo": "Great War Infantry",
 		"promotions": ["Ignore terrain cost","Cover I"],
 		"attackSound": "shot"
 	}
