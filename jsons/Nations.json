@@ -32,7 +32,7 @@
 		"innerColor": [250,200,0],
         "favoredReligion": "Christianity"
 		"uniqueName": "Pearl of the Orient"
-        "uniques":["[+3 Production, +3 Gold] from each Trade Route", "[+20]% [Culture] from Trade Routes"],
+        "uniques":["[+2 Production, +2 Gold, +2 Culture] from each Trade Route", "[+20]% [Culture] from Trade Routes"],
 		"cities": ["Manila","Cebu","Iloilo","Vigan","Davao","Batangas","Tagbilaran","Zamboanga","Bacolod","Tuguegarao","Tarlac","Kalibo","Lucena","Antique","Naga","Dagupan","Baguio","Makati","Quezon City","Pasig","Cagayan de Oro","Dumaguete","Taguig","Las Piñas","Mandaluyong","Marikina","Parañaque","Pasay","San Fernando","Santiago","Tacloban","Cotabato","General Santos","Bohol","Palawan","Taytay","Ormoc","Laoag","Olongapo","Iligan","Bacolod","Cabanatuan","Angeles","Bataan","Sorsogon","Baler","Batac","Butuan","Legazpi","Surigao","Zambales","Roxas","Talisay","Malolos","Baguio","Cebu City","Tarlac City","Zamboanga City","Iloilo City","Naga City","Tacloban City","Davao City","Marawi","General Santos City","Santiago City","Tagum"],
         "spyNames": ["Santos","Cruz","Gomez","Diaz","Reyes","Garcia","Martinez","Lopez","Rodriguez","Perez","Castro","Morales","Alvarez","Fernandez","Rivera","Navarro","Ramos","Bautista","Mendoza","Jimenez","Salazar","Aquino","Villar","Torres","Suarez","Serrano","Santiago","Ferrer","Garcia","DeLaCruz","DelosSantos","Cabrera","Benitez"]
 	}

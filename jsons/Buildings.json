@@ -4,7 +4,7 @@
 		"replaces": "Garden",
 		"uniqueTo": "Philippines",
 		"cost": 150,
-		"culture": 50,
+		"culture": 60,
 		"maintenance": 2,
 		"requiredTech": "Theology",
         "uniques": ["[+25]% [Culture] [in this city]", "Can only be built <in [Capital] cities>","[+15]% Great Person generation [in this city]"]
